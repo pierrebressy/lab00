@@ -11,4 +11,5 @@
 
 ## Récupération d'une donnée de labo
 - avec GitHub Desktop, clone du repository lab00,
-- modifier le fichier README.md.
+- modifier le fichier README.md,
+- publish the changes.
