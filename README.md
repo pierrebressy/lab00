@@ -11,3 +11,5 @@
 
 ## Récupération d'une donnée de labo
 - avec GitHub Desktop, clone du repository lab00
+
+C'est mon fichier setup a moi
